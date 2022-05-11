@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AbdelrahmanElsadig/react_reviews_slider/static/css/main.9618a6b4.css",
+    "main.js": "/AbdelrahmanElsadig/react_reviews_slider/static/js/main.dbee13bf.js",
+    "index.html": "/AbdelrahmanElsadig/react_reviews_slider/index.html",
+    "main.9618a6b4.css.map": "/AbdelrahmanElsadig/react_reviews_slider/static/css/main.9618a6b4.css.map",
+    "main.dbee13bf.js.map": "/AbdelrahmanElsadig/react_reviews_slider/static/js/main.dbee13bf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9618a6b4.css",
+    "static/js/main.dbee13bf.js"
+  ]
+}
